@@ -1,6 +1,6 @@
 # Compiler
 CXX = g++
-CXXFLAGS = -Wall -std=c++17 -Iinclude -I../Engine/include
+CXXFLAGS = -Wall -std=c++17 -Iinclude -I..{Path to ClinetGFX.h}
 LDFLAGS = -L../Engine -lClinetGFX -lgdi32 -mwindows
 
 # Directories
