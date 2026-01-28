@@ -22,7 +22,7 @@ The project focuses on low-level graphics, real-time movement, and collision det
 
 ##  Features
 
--  Player-controlled ship with rotation and thrust
+-  Player-controlled ship
 -  Real-time collision detection
 -  Procedural asteroid generation
 -  Classic arcade-style movement and feel
