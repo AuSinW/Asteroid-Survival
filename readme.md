@@ -57,6 +57,4 @@ Be sure to change the folliwng line as needed:
 ```makefile
 CXXFLAGS = -Wall -std=c++17 -Iinclude -I../path/to/ClinetGFX
 
-### Build
-```bash
-make
+
